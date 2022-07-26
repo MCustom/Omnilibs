@@ -1,0 +1,46 @@
+⧼ Decrypted by **KnoX** ⧽
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **Payload** ⎞
+OPTIONS ws://www.pisofiph.com HTTP/1.1
+Host: helzshop.com \r\n\r\n
+GET love://www.pisofiph.com HTTP/1.1
+Host: sg4-30.sjupiter.net
+Upgrade: ws\r\n\r\n
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **SNI** ⎞
+`www.pisofiph.com`
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **Proxy** ⎞
+`104.21.50.229:443`
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **SSH** ⎞
+`104.21.50.229:443@jupitervpn-June26:June26`
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **DNS** ⎞
+`1.1.1.1`
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **UDPGW** ⎞
+`127.0.0.1:7300`
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **Entry** ⎞
+`127.0.0.1:1080`
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **slowDNS** ⎞
+``
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **NameServer** ⎞
+``
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **NSKey** ⎞
+``
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **Specs** ⎞
+⦔ DefaultRequest: False 
+⦔ ForbidSu: True
+⦔ EnableAuth: False
+⦔ Secure: True
+⦔ ForwardResolver: True
+⦔ ForwardSocks: True
+⦔ Validate: False
+⦔ Base: 5
+⦔ Compatible: 9

@@ -1,0 +1,34 @@
+⧼ Decrypted by **KnoX** ⧽
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **Payload** ⎞
+`Connect / HTTP/1.1[crlf]Host: sg-public1.sshws.net[crlf]Upgrade: websocket[crlf][crlf]`
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **SNI** ⎞
+`ke.goodinternet.org`
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **Host** ⎞
+`www.splashlearn.com`
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **DNS** ⎞
+`41.210.187.253`
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **Prime** ⎞
+`204.48.30.222`
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **Prime DNS** ⎞
+`'ns.hat53.com'
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **Realm** ⎞
+'site1.blogstar.net'
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **CONFIG** ⎞
+`{'connection_mode': '3', 'server_port': 443, 'custom_payload': 'Connect / HTTP/1.1[crlf]Host: sg-public1.sshws.net[crlf]Upgrade: websocket[crlf][crlf]', 'custom_host': 'www.splashlearn.com', 'custom_sni': 'ke.goodinternet.org', 'custom_resolver': '41.210.187.253', 'use_realm_host': True, 'preserve_sni': True, 'use_tcp_payload': False, 'realm_host': 'site1.blogstar.net', 'override_primary_host': False, 'primary_host': '204.48.30.222', 'dns_primary_host': 'ns.hat53.com', 'primary_node': 'us', 'base_tunnel': 0, 'isv5': True}`
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **Specs** ⎞
+⦔ UseRealm: True
+⦔ DefaultSNI: True
+⦔ TCPayload: False
+⦔ OverridePrime: False
+⦔ Nodes: US
+⦔ Base: 0
+⦔ UseV5: True
