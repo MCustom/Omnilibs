@@ -1,0 +1,34 @@
+⧼ Decrypted by **KnoX** ⧽
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **Payload** ⎞
+'GET[crlf]Host: http://www.premierbet.com[crlf]Connection: keep-alive[crlf]X-Online-Host: www.premierbet.com[crlf]X-Forward-Host: www.premierbet.com[crlf][crlf]`
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **SNI** ⎞
+'www.premierbet.com'
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **Host** ⎞
+'www.freesite.com'
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **DNS** ⎞
+'1.1.1.1'
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **Prime** ⎞
+'204.48.30.222'
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **Prime DNS** ⎞
+`'ns.hat53.com'
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **Realm** ⎞
+'site1.blogstar.net'
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **CONFIG** ⎞
+'{'connection_mode': '1', 'server_port': 443, 'custom_payload': 'GET[crlf]Host: http://www.premierbet.com[crlf]Connection: keep-alive[crlf]X-Online-Host: www.premierbet.com[crlf]X-Forward-Host: www.premierbet.com[crlf][crlf]`', 'custom_host': 'www.freesite.com', 'custom_sni': 'www.premierbet.com', 'custom_resolver': '1.1.1.1', 'use_realm_host': True, 'preserve_sni': False, 'use_tcp_payload': False, 'realm_host': 'site1.blogstar.net', 'override_primary_host': False, 'primary_host': '204.48.30.222', 'dns_primary_host': 'ns.hat53.com', 'primary_node': 'us', 'base_tunnel': 0, 'isv5': True}'
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **Specs** ⎞
+⦔ UseRealm: True
+⦔ DefaultSNI: False
+⦔ TCPayload: False
+⦔ OverridePrime: False
+⦔ Nodes: US
+⦔ Base: 0
+⦔ UseV5: True
