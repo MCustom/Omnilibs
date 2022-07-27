@@ -1,0 +1,16 @@
+[In reply to Jokes]
+Configuration File 0 0 lionssh-ritchie us.goserver.pw Phylum145 0 0 0 * * *** 0 2 1.1.1.1 80 127.0.0.1:7300 1 1 0 80 GET / HTTP/1.1[crlf]Host: us.goserver.pw[crlf]Upgrade: websocket[crlf][crlf] 104.26.14.41 0 1 0 1080 ü 2­3ÆO &}ëu%
+
+[In reply to Jokes]
+[✓] [SSH Username] => lionssh-ritchie
+[✓] [SSH Server Address] => us.goserver.pw
+[✓] [SSH Password] => Phylum145
+[✓] [Public Key] => ***
+[✓] [DNS] => ***
+[✓] [DNS NameServer] => ***
+[✓] [Expiration Date] => lifeTime
+[✓] [Primary DNS Address] => 1.1.1.1
+[✓] [UDPGW Port/Host:Port] => 127.0.0.1:7300
+[✓] [Payload] => GET / HTTP/1.1[crlf]Host: us.goserver.pw[crlf]Upgrade: websocket[crlf][crlf]
+[✓] [Proxy Server Address] => 104.26.14.41
+[✓] [SSH Address] => us.goserver.pw:80@lionssh-ritchie:Phylum145

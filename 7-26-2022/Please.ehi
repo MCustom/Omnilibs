@@ -1,0 +1,11 @@
+[In reply to Markito😉]
+GET / HTTP/1.1 
+Host: dgymb2la4083y.cloudfront.net 
+Connection: Upgrade 
+Upgrade: Websocket
+
+Proxy : recarga.vivo.com.br:80
+Host : recarga.vivo.com.br
+Port : 80
+Username :
+Password :
