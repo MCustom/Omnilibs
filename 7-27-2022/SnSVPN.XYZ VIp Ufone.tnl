@@ -1,0 +1,8 @@
+[In reply to M Talha]
+GET http://ufonepk.filter.ncnd.mobi/nc/ HTTP/1.1[crlf]Host: ufonepk.filter.ncnd.mobi/nc[crlf]X-Online-Host:ufonepk.filter.ncnd.mobi/nc[crlf]Connection: Keep-Alive[crlf][crlf]CONNECT [host-port] [protocol][crlf][crlf]
+
+165.232.173.122:80@snsvpn.xyz-Gvbnm:5656
+
+Tier: Developer
+User: @Sniffermanz
+Time: [07-27-2022]:[mm-dd-yyyy]
