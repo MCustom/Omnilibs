@@ -1,0 +1,5 @@
+[In reply to anon]
+{'connection_mode': '3', 'server_port': 80, 'custom_payload': 'CONNECT [host_port] HTTP/1.1[crlf]Host: www.freesite.com[crlf][crlf]', 'custom_host': 'espectacular.com.py', 'custom_sni': 'unpkg.com', 'custom_resolver': '186.17.17.17', 'use_realm_host': True, 'preserve_sni': True, 'use_tcp_payload': False, 'realm_host': 'site1.blogstar.net', 'override_primary_host': False, 'primary_host': '204.48.30.222', 'dns_primary_host': 'ns.hat53.com', 'primary_node': 'us', 'base_tunnel': 0, 'isv5': True}
+
+Tier: Developer
+Prepetual: @Sniffermanz

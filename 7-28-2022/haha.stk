@@ -1,0 +1,5 @@
+[In reply to OThmane]
+{"config":"{\"connection_mode\":3,\"server_port\":\"443\",\"use_proxy\":false,\"use_v2ray_mod\":true,\"proxy_host\":\"\",\"proxy_port\":\"\",\"custom_payload\":\"CONNECT [host_port] HTTP\\\/1.0[crlf]Host: www.snapchat.com[crlf][crlf]\",\"custom_host\":\"webdir.online.lync.com\",\"custom_sni\":\"noorderpoort.electude.eu\",\"custom_resolver\":\"8.8.4.4\"}","expiry":0,"lock_hwid":"","mobile_data":false,"block_root":false,"creator_note":"@abbassi01\n0645920302"}
+
+Tier: Developer
+Prepetual: @Sniffermanz
