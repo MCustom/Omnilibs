@@ -1,0 +1,28 @@
+⧼ Decrypted by **KnoX** ⧽
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **Payload** ⎞
+`GET http://www.whatsapp.com HTTP/1.0[crlf]Host: http://www.whatsapp.com[crlf]Connection: keep-alive[crlf][crlf]`
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **SNI** ⎞
+`209.150.154.128`
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **Proxy** ⎞
+`204.48.30.222:80:204.48.30.222:80`
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **Host** ⎞
+`www.whatsapp.com:8080`
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **Note** ⎞
+'                   Powered By \n🔥🇵🇰   ZEHER HASSAN 🇵🇰🔥🔥'
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **CONFIG** ⎞
+`{"config":"{\"connection_mode\":1,\"server_port\":\"8080\",\"use_proxy\":false,\"use_v2ray_mod\":true,\"proxy_host\":\"204.48.30.222:80\",\"proxy_port\":\"204.48.30.222:80\",\"custom_payload\":\"GET http:\\\/\\\/www.whatsapp.com HTTP\\\/1.0[crlf]Host: http:\\\/\\\/www.whatsapp.com[crlf]Connection: keep-alive[crlf][crlf]\",\"custom_host\":\"www.whatsapp.com\",\"custom_sni\":\"209.150.154.128\"}","expiry":0,"lock_hwid":"","mobile_data":false,"block_root":false,"creator_note":"                   Powered By \n🔥🇵🇰   ZEHER HASSAN 🇵🇰🔥🔥"}`
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+⎝ **Specs** ⎞
+⦔ Expire: False
+⦔ HWID:
+⦔ ForceData: False
+⦔ ForceRoot: False
+⦔ isV2Ray: True
+⦔ ProxySwitch: False
+⦔ Type: 1
